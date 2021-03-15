@@ -1,15 +1,22 @@
+/* 1.
 .parrafo{
     font-size: 200%; ;
 }
+*/
 
-.parrafo2{
+/* 2.
+.parrafo{
     font-size: 75%; ;
 }
+*/
 
+/* 3.
 hr{
     width: 50%;
 }
 
+*/
+/* 4.
 .parrafo2{
     width: 50%;
     border: black 1px solid;
@@ -18,12 +25,15 @@ hr{
     width: 50%;
 }
 
+*/
+/* 5.
 .parrafo2{
     border: black 2px solid;
     font-size:150%;
 }
+*/
 
-
+/* 6.
 .parrafo2{
     border: black 1px solid;
     font-size: 150%;
@@ -31,7 +41,9 @@ hr{
 .parrafo{
     font-size: 160%;
 }
+*/
 
+/* 7.
 .parrafo2{
     border: black 2px solid;
     font-size: 1.5em;
@@ -40,11 +52,15 @@ hr{
     font-size: 1.5em;
 }
 
+*/
+/* 8.
 .parrafos{
     background-color: lightgray;
     width: 50vw;
     height: 50vh;
 }
+*/
+/* 9. */
 p.min{
     background-color: lightgray;
     width: 50vw;
