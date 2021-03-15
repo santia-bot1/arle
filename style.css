@@ -1,0 +1,57 @@
+.parrafo{
+    font-size: 200%; ;
+}
+
+.parrafo2{
+    font-size: 75%; ;
+}
+
+hr{
+    width: 50%;
+}
+
+.parrafo2{
+    width: 50%;
+    border: black 1px solid;
+}
+hr{
+    width: 50%;
+}
+
+.parrafo2{
+    border: black 2px solid;
+    font-size:150%;
+}
+
+
+.parrafo2{
+    border: black 1px solid;
+    font-size: 150%;
+}
+.parrafo{
+    font-size: 150%;
+}
+
+.parrafo2{
+    border: black 2px solid;
+    font-size: 1.5em;
+}
+.parrafo{
+    font-size: 1.5em;
+}
+
+.parrafos{
+    background-color: lightgray;
+    width: 50vw;
+    height: 50vh;
+}
+p.min{
+    background-color: lightgray;
+    width: 50vw;
+    height: 50vh;
+}
+p.max{
+    background-color: lightgray;
+    width: 50vw;
+    height: 50vh;
+}
